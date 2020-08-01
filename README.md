@@ -27,4 +27,4 @@ public async Task Start()
         }
 ```
 
-So basically everything you can use is in `DiscrodBot` class. Enjoy xD
+So literally everything you can use is in `DiscrodBot` class. Enjoy xD
