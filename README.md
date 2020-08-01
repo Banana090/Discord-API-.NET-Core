@@ -1,5 +1,5 @@
 # Discord-API-.NET-Core
-Basic Discord API wrapper for .NET Core
+Simple Discord API wrapper for .NET Core
 
 Example of basic bot implementation
 ```cs
